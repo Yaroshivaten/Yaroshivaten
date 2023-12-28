@@ -2,6 +2,7 @@
 
 ### My personality  
 <div align="left">
+  
 - 🔭 Oldschool front-end developer with strong JS skills  
   
 - 🌱 Currently reading "The Pragmatic Programmer"   
