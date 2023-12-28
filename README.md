@@ -2,7 +2,7 @@
 <table><tr><td valign="top" width="50%">
 
 ### My personality  
-<div align="center">  
+<div align="left">  
 - 🔭 Oldschool front-end developer with strong JS skills  
   
 - 🌱 Currently reading "The Pragmatic Programmer"   
@@ -11,7 +11,7 @@
   
 - ⚡ Few facts: adrenaline junkie, crypto adept, freediver 
 </div>
-
+</td><td valign="top" width="50%">
 ### Skill set  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -29,7 +29,4 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
-
 </td></tr></table>
-<br />
